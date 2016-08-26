@@ -1,4 +1,4 @@
-## ffffm-fastd-auto-mtu
+## fastd-auto-mtu
 
 In Abhängigkeit der Up-Link-Eigenschaften wird durch dieses Gluon-Package automatisch eine kleine oder eine große fastd-MTU-Größe eingestellt.<br>
 
